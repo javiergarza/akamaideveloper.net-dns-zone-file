@@ -4,9 +4,10 @@ akamaideveloper.net.	172800	IN	NS	a26-66.akam.net.
 akamaideveloper.net.	172800	IN	NS	a7-67.akam.net.
 akamaideveloper.net.	172800	IN	NS	a16-64.akam.net.
 akamaideveloper.net.	172800	IN	NS	a22-65.akam.net.
-akamaideveloper.net.	900	IN	SOA	akamaideveloper.net. hostmaster.akamaideveloper.net. 1601591500 900 300 604800 180
+akamaideveloper.net.	900	IN	SOA	akamaideveloper.net. hostmaster.akamaideveloper.net. 1601591900 900 300 604800 180
 bc.akamaideveloper.net.	7200	IN	CNAME	bc.akamaideveloper.com.
 dale.akamaideveloper.net.	300	IN	CNAME	www.akamaideveloper.net.edgesuite-staging.net.
+beth.akamaideveloper.net.	300	IN	CNAME	www.akamaideveloper.net.edgesuite-staging.net.
 javier.akamaideveloper.net.	300	IN	CNAME	www.akamaideveloper.net.edgesuite-staging.net.
 *.origin.akamaideveloper.net.	7200	IN	CNAME	origin-web.urbancrawlapp.com.
 terraform-demo-test.akamaideveloper.net.	300	IN	CNAME	terraform-demo-test.akamaideveloper.net.edgesuite-staging.net.
