@@ -6,13 +6,7 @@ akamaideveloper.net.	172800	IN	NS	a16-64.akam.net.
 akamaideveloper.net.	172800	IN	NS	a22-65.akam.net.
 akamaideveloper.net.	900	IN	SOA	akamaideveloper.net. hostmaster.akamaideveloper.net. 1601611804 900 300 604800 180
 bc.akamaideveloper.net.	7200	IN	CNAME	bc.akamaideveloper.com.
-dale.akamaideveloper.net.	300	IN	CNAME	www.akamaideveloper.net.edgesuite-staging.net.
-beth.akamaideveloper.net.	300	IN	CNAME	www.akamaideveloper.net.edgesuite-staging.net.
-javier.akamaideveloper.net.	300	IN	CNAME	www.akamaideveloper.net.edgesuite-staging.net.
 *.origin.akamaideveloper.net.	7200	IN	CNAME	origin-web.urbancrawlapp.com.
-terraform-demo-test.akamaideveloper.net.	300	IN	CNAME	terraform-demo-test.akamaideveloper.net.edgesuite-staging.net.
-terraform-demo-test-origin.akamaideveloper.net.	30	IN	CNAME	akamai-terraform-demo-elb-1890253820.us-west-2.elb.amazonaws.com.
-thirdpartytlstest.akamaideveloper.net.	10	IN	CNAME	world-tour.akamaideveloper.net.edgesuite-staging.net.
 _acme-challenge.thirdpartytlstest.akamaideveloper.net.	300	IN	TXT	"HLv9NfF7-Beq-wd4jsZ9lVR1ddiDwf4PNlu2KbKgbrg"
 *.world-tour.akamaideveloper.net.	7200	IN	CNAME	world-tour.akamaideveloper.net.edgesuite-staging.net.
-karen.akamaideveloper.net.	7200	IN	CNAME	www.akamaideveloper.net.edgesuite-staging.net.
+codesamples.akamaideveloper.net.  300   IN  CNAME ssl.readmessl.com.
